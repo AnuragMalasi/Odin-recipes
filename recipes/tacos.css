@@ -1,0 +1,50 @@
+h1 {
+    height: auto;
+    width: 600px;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    color: darkslateblue;
+    /* background-color: bisque; */
+    padding: 20px;
+    border: 2px;
+    margin: 10px auto;
+}
+
+img {
+    height: auto;
+    width: 350px;
+    border: 1px;
+    /* border-style: solid; */
+    padding: 5px;
+    margin: 10px auto;
+    display: block;
+    background-color: rgb(76, 92, 48);
+}
+
+.about{
+    text-align: center;
+}
+
+h2 {
+    color: saddlebrown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+h3 {
+    color: rgb(64, 52, 119);
+    font-size: 20px;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    width: 850px;
+    margin: 10px auto;
+    padding:15px;
+    background-color:rgb(199, 193, 109)
+}
